@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fun.juhua.library_springboot.LibrarySpringbootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.235 s - in fun.juhua.library_springboot.LibrarySpringbootApplicationTests
